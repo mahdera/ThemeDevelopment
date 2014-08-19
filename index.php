@@ -6,8 +6,11 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+        <!--The meta tags will make sure the site displays properly on mobile/hand held devices-->
+        <meta name="viewport" content="width=device-width">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <title>Theme Development</title>
     </head>
     <body>
         <div id="container">
