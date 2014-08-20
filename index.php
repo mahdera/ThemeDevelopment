@@ -19,6 +19,7 @@
 
         <!--//style sheets-->
         <link media="all" rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
 
         <!--//javascripts-->
         <script src="js/modernizr.custom.20796.js"></script>
